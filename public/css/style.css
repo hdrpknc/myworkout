@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "Bitter";
+  src: url(Bitter-Regular.ttf) format("truetype");
+}
+body {
+  background-color: white; /* sets background color to light grey*/
+  font-family: "Bitter";
+}
 table {
   border-collapse: collapse;
   width: 100%;
